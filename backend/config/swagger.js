@@ -5,9 +5,9 @@ const options = {
   definition: {
     openapi: '3.0.0',
     info: {
-      title: 'Civix API',
+      title: 'CivicIQ API',
       version: '1.0.0',
-      description: 'API documentation for Civix - Civic Issue Reporting Platform',
+      description: 'API documentation for CivicIQ - Civic Issue Reporting Platform',
     },
     servers: [
       {
