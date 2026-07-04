@@ -1,4 +1,4 @@
-# 📦 Pull Request: Civix Contribution
+# 📦 Pull Request: CivicIQ Contribution
 
 ## ✅ Description
 
@@ -17,7 +17,7 @@ Fixes: #[issue-number]
 
 ## 📋 Checklist
 
-- [ ] My code follows the contribution guidelines of Civix
+- [ ] My code follows the contribution guidelines of CivicIQ
 - [ ] I have tested my changes locally
 - [ ] I have updated relevant documentation
 - [ ] I have linked related issues (if any)
