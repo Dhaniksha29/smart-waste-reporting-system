@@ -428,7 +428,7 @@ const CivicEducation = () => {
                 },
                 {
                   title: "Use Civic Apps",
-                  desc: "Report issues through platforms like Civix",
+                  desc: "Report issues through platforms like Smart Waste Reporting System",
                   icon: <Sparkles className="w-5 h-5" />,
                   color: "pink"
                 }
@@ -1101,7 +1101,7 @@ const CivicEducation = () => {
                           Take Action
                         </h5>
                         <p className="text-sm text-gray-600">
-                          Use the Civix app to report issues and engage with your community
+                          Use the Smart Waste Reporting System app to report issues and engage with your community
                         </p>
                       </div>
                     </div>

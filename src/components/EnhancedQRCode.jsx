@@ -13,8 +13,8 @@ const EnhancedQRCode = () => {
           {/* QR Code Background with Enhanced Styling */}
           <div className="relative bg-white dark:bg-gray-50 p-4 rounded-xl shadow-lg border border-gray-200 dark:border-gray-300">
             <img
-              src="/downloadCivixQrCode.png"
-              alt="Download Civix App QR Code"
+              src="/downloadSmart Waste Reporting SystemQrCode.png"
+              alt="Download Smart Waste Reporting System App QR Code"
               className="qr-code-enhanced w-48 h-48 object-contain"
               loading="lazy"
             />
@@ -25,7 +25,7 @@ const EnhancedQRCode = () => {
                 <div className="app-icon-bg w-12 h-12 flex items-center justify-center rounded-xl shadow-lg">
                   <img 
                     src={favvIcon} 
-                    alt="Civix App Icon" 
+                    alt="Smart Waste Reporting System App Icon" 
                     className="w-8 h-8 object-contain filter brightness-110"
                   />
                 </div>
@@ -40,7 +40,7 @@ const EnhancedQRCode = () => {
         {/* Enhanced Text */}
         <div className="mt-6 text-center space-y-2">
           <p className="text-lg font-bold bg-gradient-to-r from-emerald-600 via-green-600 to-emerald-700 dark:from-emerald-400 dark:via-green-400 dark:to-emerald-500 bg-clip-text text-transparent">
-            Civix App on Mobile
+            Smart Waste Reporting System App on Mobile
           </p>
           <p className="text-sm text-gray-600 dark:text-gray-400 font-medium">
             Scan to Download
@@ -55,7 +55,7 @@ const EnhancedQRCode = () => {
         <div className="flex items-center justify-center h-full w-full rounded-xl bg-gradient-to-br from-emerald-100 via-green-100 to-emerald-200 dark:from-emerald-900 dark:via-green-900 dark:to-emerald-800 group-hover:from-emerald-200 group-hover:via-green-200 group-hover:to-emerald-300 dark:group-hover:from-emerald-800 dark:group-hover:via-green-800 dark:group-hover:to-emerald-700 transition-all duration-300">
           <img 
             src={favvIcon} 
-            alt="Civix Icon" 
+            alt="Smart Waste Reporting System Icon" 
             className="w-10 h-10 object-contain filter brightness-110 group-hover:scale-110 transition-transform duration-300" 
           />
         </div>

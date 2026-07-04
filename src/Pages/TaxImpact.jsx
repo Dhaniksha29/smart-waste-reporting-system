@@ -97,7 +97,7 @@ const TaxImpact = () => {
               <Calculator className="text-white w-11 h-11" />
             </div>
             <h1 className="text-4xl md:text-5xl font-extrabold bg-gradient-to-r from-emerald-800 via-green-700 to-green-900 dark:from-green-300 dark:via-emerald-300 dark:to-green-100 bg-clip-text text-transparent tracking-tighter">
-              Civix Tax Impact Calculator
+              Smart Waste Reporting System Tax Impact Calculator
             </h1>
           </div>
           <p className="text-emerald-700 dark:text-green-200 text-xl md:text-2xl max-w-3xl mx-auto font-medium">
@@ -227,7 +227,7 @@ const TaxImpact = () => {
             <div className="w-6 h-6 bg-white/20 dark:bg-white/30 rounded-full flex items-center justify-center mr-3">
               <span className="text-white font-bold text-sm">C</span>
             </div>
-            <span className="text-white font-bold text-lg">Powered by Civix – Understanding Your Community</span>
+            <span className="text-white font-bold text-lg">Powered by Smart Waste Reporting System – Understanding Your Community</span>
           </div>
           <div className="mt-8 max-w-4xl mx-auto bg-white/60 dark:bg-emerald-950/60 backdrop-blur rounded-2xl p-6 border border-emerald-100/70 dark:border-emerald-700/60">
             <p className="text-emerald-800 dark:text-emerald-200 text-base">

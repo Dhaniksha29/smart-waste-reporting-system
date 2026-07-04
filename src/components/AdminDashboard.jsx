@@ -199,7 +199,7 @@ const AdminDashboard = () => {
             </div>
             {isSidebarOpen && (
               <span className="ml-3 text-xl font-bold bg-gradient-to-r from-emerald-600 via-teal-600 to-cyan-600 bg-clip-text text-transparent">
-                Civix
+                Smart Waste Reporting System
               </span>
             )}
           </div>
@@ -296,7 +296,7 @@ const AdminDashboard = () => {
                 </div>
                 <div>
                   <h1 className="text-2xl font-bold bg-gradient-to-r from-emerald-600 to-green-700 bg-clip-text text-transparent">
-                    Civix Admin
+                    Smart Waste Reporting System Admin
                   </h1>
                   <p className="text-sm text-gray-500 dark:text-gray-400">Citizen Issue Management</p>
                 </div>

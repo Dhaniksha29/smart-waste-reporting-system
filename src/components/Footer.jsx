@@ -42,7 +42,7 @@ const Footer = () => {
   const socialLinks = [
     {
       name: "GitHub",
-      href: "https://github.com/HarshS16/Civix",
+      href: "https://github.com/HarshS16/Smart Waste Reporting System",
       icon: Github,
       description: "View source code",
       color:
@@ -73,7 +73,7 @@ const Footer = () => {
 
   const footerLinks = [
     {
-      title: "Civix",
+      title: "Smart Waste Reporting System",
       icon: Sparkles,
       links: [
         {
@@ -116,7 +116,7 @@ const Footer = () => {
           name: "Tutorials",
           href: "/tutorials",
           icon: UsersIcon,
-          description: "Learn how to use Civix",
+          description: "Learn how to use Smart Waste Reporting System",
         },
       ],
     },
@@ -356,7 +356,7 @@ const Footer = () => {
                   ></div>
                   <img
                     src={logoF}
-                    alt="Civix Logo"
+                    alt="Smart Waste Reporting System Logo"
                     className="w-12 h-auto transition-all duration-500 group-hover:scale-110 group-hover:rotate-3"
                   />
                 </div>
@@ -567,7 +567,7 @@ const Footer = () => {
                 How was your experience?
               </h3>
               <p className="text-slate-600 dark:text-slate-300 text-sm">
-                Your feedback helps us improve Civix for everyone
+                Your feedback helps us improve Smart Waste Reporting System for everyone
               </p>
             </div>
 
@@ -634,7 +634,7 @@ const Footer = () => {
         <div className="border-t border-slate-200/50 dark:border-slate-700/50 pt-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-slate-500 dark:text-slate-400 text-xs flex items-center">
-              © {currentYear} Civix. All rights reserved.
+              © {currentYear} Smart Waste Reporting System. All rights reserved.
               <span className="mx-2">•</span>
               <span className="flex items-center">
                 Made with{" "}

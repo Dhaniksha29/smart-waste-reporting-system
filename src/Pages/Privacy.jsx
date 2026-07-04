@@ -62,7 +62,7 @@ function Privacy() {
           <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto leading-relaxed">
             Your privacy is important to us. This policy outlines how{" "}
             <span className="font-semibold text-indigo-600 dark:text-indigo-400">
-              Civix
+              Smart Waste Reporting System
             </span>{" "}
             collects, uses, and protects your information when you use our
             services.

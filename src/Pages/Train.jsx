@@ -79,7 +79,7 @@ const TrainSchedule = () => {
                 Train Schedule
               </h1>
               <div className="h-1 bg-gradient-to-r from-green-500 to-emerald-500 rounded-full mt-2 w-32 mx-auto"></div>
-              <p className="text-emerald-600 font-semibold mt-2">Powered by Civix</p>
+              <p className="text-emerald-600 font-semibold mt-2">Powered by Smart Waste Reporting System</p>
             </div>
           </div>
         </div>

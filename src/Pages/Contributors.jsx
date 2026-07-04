@@ -35,7 +35,7 @@ const ContributorsPage = () => {
     const fetchContributors = async () => {
       try {
         const response = await fetch(
-          "https://api.github.com/repos/HarshS16/Civix/contributors?per_page=200"
+          "https://api.github.com/repos/HarshS16/Smart Waste Reporting System/contributors?per_page=200"
         );
         if (!response.ok) throw new Error("Failed to fetch contributors");
         const data = await response.json();
@@ -142,7 +142,7 @@ const ContributorsPage = () => {
               Our Amazing <span className="block bg-gradient-to-r from-green-200 via-emerald-300 to-teal-200 bg-clip-text text-transparent">Contributors</span>
             </h1>
             <p className="text-xl text-emerald-50/90 mb-10 max-w-2xl mx-auto drop-shadow-md">
-              Meet the talented developers making Civix better every day.
+              Meet the talented developers making Smart Waste Reporting System better every day.
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-7 max-w-3xl mx-auto">
               <div className="blur-card-green">

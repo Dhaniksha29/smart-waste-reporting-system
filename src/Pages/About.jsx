@@ -148,7 +148,7 @@ function About() {
             </h1>
 
             <p className="hero-description">
-              Civix helps citizens report and track local civic issues like potholes, broken lights,
+              Smart Waste Reporting System helps citizens report and track local civic issues like potholes, broken lights,
               and garbage collection problems with unprecedented ease and transparency.
             </p>
 
@@ -218,9 +218,9 @@ function About() {
               <section className="why-section py-16 px-6 md:px-12 bg-gradient-to-r from-green-600 to-emerald-500 rounded-2xl shadow-lg" data-aos="fade-up" data-aos-delay="300">
                 <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-12">
                   <div className="why-text text-white md:w-2/3">
-                    <h2 className="text-3xl md:text-4xl font-bold mb-4">Why Choose Civix?</h2>
+                    <h2 className="text-3xl md:text-4xl font-bold mb-4">Why Choose Smart Waste Reporting System?</h2>
                     <p className="text-lg opacity-90 leading-relaxed mb-8">
-                      Civix empowers citizens by simplifying the process to voice concerns and foster positive
+                      Smart Waste Reporting System empowers citizens by simplifying the process to voice concerns and foster positive
                       change in communities. We connect the public with civic authorities for enhanced governance,
                       transparency, and real results that matter.
                     </p>

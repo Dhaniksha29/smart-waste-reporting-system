@@ -41,7 +41,7 @@
 //     if (isOpen && messages.length === 0) {
 //       setMessages([
 //         {
-//           text: 'Hello! I\'m Civix Assistant. How can I help you today? Here are some common questions:',
+//           text: 'Hello! I\'m Smart Waste Reporting System Assistant. How can I help you today? Here are some common questions:',
 //           isBot: true
 //         }
 //       ]);
@@ -102,7 +102,7 @@
 //         <div className="w-80 h-[500px] bg-white dark:bg-gray-800 rounded-lg shadow-xl flex flex-col border border-gray-200 dark:border-gray-700">
 //           {/* Header */}
 //           <div className="bg-blue-600 text-white p-3 rounded-t-lg flex justify-between items-center">
-//             <h3 className="font-semibold">Civix Assistant</h3>
+//             <h3 className="font-semibold">Smart Waste Reporting System Assistant</h3>
 //             <button onClick={toggleChat} className="text-white hover:text-gray-200">
 //               <FiX size={20} />
 //             </button>

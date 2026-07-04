@@ -30,7 +30,7 @@ function Terms() {
       id: 'use-service',
       icon: <CheckCircle className="w-6 h-6" />,
       title: 'Use of Service',
-      content: 'You agree to use Civix for lawful purposes only and not to misuse or interfere with the platform\'s functionality. This includes respecting community guidelines and reporting issues in good faith.',
+      content: 'You agree to use Smart Waste Reporting System for lawful purposes only and not to misuse or interfere with the platform\'s functionality. This includes respecting community guidelines and reporting issues in good faith.',
       color: 'from-emerald-500 to-teal-600',
       bgGradient: 'from-emerald-50 to-teal-50 dark:from-emerald-900/20 dark:to-teal-900/20'
     },
@@ -62,7 +62,7 @@ function Terms() {
       id: 'updates',
       icon: <RefreshCw className="w-6 h-6" />,
       title: 'Updates to Terms',
-      content: 'We may revise these terms periodically to reflect changes in our services or legal requirements. Continued use of Civix constitutes your acceptance of any changes.',
+      content: 'We may revise these terms periodically to reflect changes in our services or legal requirements. Continued use of Smart Waste Reporting System constitutes your acceptance of any changes.',
       color: 'from-orange-500 to-amber-600',
       bgGradient: 'from-orange-50 to-amber-50 dark:from-orange-900/20 dark:to-amber-900/20'
     }
@@ -97,7 +97,7 @@ function Terms() {
           </h1>
           
           <p className="max-w-3xl mx-auto text-xl md:text-2xl text-gray-600 dark:text-gray-300 leading-relaxed mb-10">
-            These Terms of Service govern your use of <span className="font-bold bg-gradient-to-r from-emerald-600 to-blue-600 bg-clip-text text-transparent">Civix</span>. 
+            These Terms of Service govern your use of <span className="font-bold bg-gradient-to-r from-emerald-600 to-blue-600 bg-clip-text text-transparent">Smart Waste Reporting System</span>. 
             By accessing or using our platform, you agree to these terms.
           </p>
           

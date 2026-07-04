@@ -406,7 +406,7 @@ const ProfileSetup = ({onComplete}) => {
             Complete Your Profile
           </h1>
           <p className="text-xl text-gray-600 dark:text-gray-400 max-w-lg mx-auto leading-relaxed">
-            Let's personalize your <span className="font-semibold text-emerald-600 dark:text-emerald-400">Civix</span> experience with a few essential details
+            Let's personalize your <span className="font-semibold text-emerald-600 dark:text-emerald-400">Smart Waste Reporting System</span> experience with a few essential details
           </p>
         </div>
 

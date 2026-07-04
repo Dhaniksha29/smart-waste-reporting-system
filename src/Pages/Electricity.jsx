@@ -133,7 +133,7 @@ const UtilitiesDashboard = () => {
               <span className="w-10 h-10 bg-gradient-to-br from-emerald-500 via-green-500 to-teal-500 text-white rounded-lg shadow-md flex items-center justify-center text-xl font-extrabold">
                 C
               </span>
-              <h1 className="text-2xl font-bold bg-gradient-to-r from-emerald-600 to-teal-500 bg-clip-text text-transparent tracking-tight">Civix Utilities</h1>
+              <h1 className="text-2xl font-bold bg-gradient-to-r from-emerald-600 to-teal-500 bg-clip-text text-transparent tracking-tight">Smart Waste Reporting System Utilities</h1>
             </div>
             <div className="flex items-center gap-3 text-sm text-emerald-700/80 dark:text-emerald-200/90">
               <Clock className="w-5 h-5" />

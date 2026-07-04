@@ -1,7 +1,7 @@
 import { useState, useRef, useEffect } from 'react';
 import { Send, Users, MessageCircle, Sparkles } from 'lucide-react';
 
-export default function CivixChatRoom() {
+export default function SmartWasteChatRoom() {
   const [messages, setMessages] = useState([
     {
       id: 1,
@@ -94,7 +94,7 @@ export default function CivixChatRoom() {
             </div>
             <div>
               <h1 className="text-xl font-bold bg-gradient-to-r from-green-700 to-emerald-700 bg-clip-text text-transparent">
-                Civix Community
+                Smart Waste Reporting System Community
               </h1>
               <p className="text-sm text-gray-500">Community Services & Local Initiatives</p>
             </div>

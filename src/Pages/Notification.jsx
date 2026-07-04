@@ -153,7 +153,7 @@ const NotificationsPage = () => {
               <span className="text-white font-bold text-sm">C</span>
             </div>
             {isSidebarOpen && (
-              <span className="ml-3 text-xl font-bold bg-gradient-to-r from-emerald-600 via-teal-600 to-cyan-600 bg-clip-text text-transparent">Civix</span>
+              <span className="ml-3 text-xl font-bold bg-gradient-to-r from-emerald-600 via-teal-600 to-cyan-600 bg-clip-text text-transparent">Smart Waste Reporting System</span>
             )}
           </div>
           <button

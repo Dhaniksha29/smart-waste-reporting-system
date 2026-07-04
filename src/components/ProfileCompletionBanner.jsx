@@ -20,7 +20,7 @@ const ProfileCompletionBanner = () => {
         </div>
         <div className="ml-3 flex-1">
           <p className="text-sm text-yellow-700">
-            <strong>Complete your profile</strong> to get the most out of Civix. 
+            <strong>Complete your profile</strong> to get the most out of Smart Waste Reporting System. 
             Add your name, email, and location to start reporting issues and engaging with your community.
           </p>
         </div>

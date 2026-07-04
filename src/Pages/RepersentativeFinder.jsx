@@ -55,7 +55,7 @@ export default function RepresentativeFinder() {
           <div className="text-center">
             <div className="inline-flex items-center gap-2 px-4 py-2 bg-white/10 dark:bg-black/20 rounded-full text-green-100 dark:text-green-200 text-sm font-medium mb-6">
               <Building className="w-4 h-4" />
-              Civix Platform
+              Smart Waste Reporting System Platform
             </div>
             <h1 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-white to-green-100 dark:from-gray-100 dark:to-green-200 bg-clip-text text-transparent">
               Find Your Representatives
@@ -158,7 +158,7 @@ export default function RepresentativeFinder() {
                 Stay engaged with your representatives and participate in local governance
               </p>
               <p className="text-green-600 dark:text-green-400 text-sm mt-2">
-                Data updated regularly • Part of the Civix platform
+                Data updated regularly • Part of the Smart Waste Reporting System platform
               </p>
             </div>
           </div>

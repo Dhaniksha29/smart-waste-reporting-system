@@ -3,7 +3,7 @@ import favvIcon from '../favv.svg';
 import './EnhancedQRCode.css';
 
 const DownloadPageQRCode = ({ 
-  title = "Civix App on Mobile", 
+  title = "Smart Waste Reporting System App on Mobile", 
   subtitle = "Scan to Download",
   size = "large" // small, medium, large
 }) => {
@@ -42,8 +42,8 @@ const DownloadPageQRCode = ({
             {/* QR Code Background with Enhanced Styling */}
             <div className="relative bg-white dark:bg-gray-50 p-6 rounded-2xl shadow-lg border border-gray-200 dark:border-gray-300">
               <img
-                src="/downloadCivixQrCode.png"
-                alt="Download Civix App QR Code"
+                src="/downloadSmart Waste Reporting SystemQrCode.png"
+                alt="Download Smart Waste Reporting System App QR Code"
                 className={`qr-code-enhanced ${sizeClasses[size]} object-contain`}
                 loading="lazy"
               />
@@ -54,7 +54,7 @@ const DownloadPageQRCode = ({
                   <div className={`app-icon-bg ${iconSizes[size]} flex items-center justify-center rounded-xl shadow-lg`}>
                     <img 
                       src={favvIcon} 
-                      alt="Civix App Icon" 
+                      alt="Smart Waste Reporting System App Icon" 
                       className={`${iconInnerSizes[size]} object-contain filter brightness-110`}
                     />
                   </div>

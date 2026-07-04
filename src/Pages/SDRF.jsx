@@ -185,7 +185,7 @@ export default function CsvImportPage() {
       <footer className="relative bg-white/95 backdrop-blur-xl border-t border-green-200/50 mt-16">
         <div className="max-w-7xl mx-auto px-8 py-6">
           <p className="text-center text-gray-600 font-medium">
-            Powered by <span className="font-bold bg-gradient-to-r from-green-600 to-emerald-600 bg-clip-text text-transparent">Civix</span> - Government Data Platform
+            Powered by <span className="font-bold bg-gradient-to-r from-green-600 to-emerald-600 bg-clip-text text-transparent">Smart Waste Reporting System</span> - Government Data Platform
           </p>
         </div>
       </footer>

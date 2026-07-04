@@ -8,7 +8,7 @@ describe('Home Component', () => {
     // For this example, we'll assume it renders without them.
     render(<Home />);
 
-    // Check if an element with the text "Welcome to Civix" exists.
-    expect(screen.getByText(/Welcome to Civix/i)).toBeInTheDocument();
+    // Check if an element with the text "Welcome to Smart Waste Reporting System" exists.
+    expect(screen.getByText(/Welcome to Smart Waste Reporting System/i)).toBeInTheDocument();
   });
 });
