@@ -1,0 +1,69 @@
+
+> backend@1.0.0 start
+> node server.js
+
+======================================
+Civix Backend Primary Process Started
+Primary PID:35400
+=======================================
+Forking server for 12 CPU Cores...
+Worker 25560 is online
+Worker 23300 is online
+Worker 20584 is online
+Worker 24360 is online
+Worker 12632 is online
+Worker 16128 is online
+Worker 34964 is online
+Worker 33112 is online
+Worker 36280 is online
+Worker 27892 is online
+Worker 4496 is online
+Worker 30888 is online
+Server running at http://localhost:5000
+Server running at http://localhost:5000
+Server running at http://localhost:5000
+Server running at http://localhost:5000
+Server running at http://localhost:5000
+Server running at http://localhost:5000
+Server running at http://localhost:5000
+Server running at http://localhost:5000
+Server running at http://localhost:5000
+Server running at http://localhost:5000
+Server running at http://localhost:5000
+ MongoDB connected
+Server running at http://localhost:5000
+ MongoDB connected
+ MongoDB connected
+ MongoDB connected
+ MongoDB connected
+ MongoDB connected
+ MongoDB connected
+ MongoDB connected
+ MongoDB connected
+ MongoDB connected
+ MongoDB connected
+ MongoDB connected
+{
+  asset_id: 'abc7e1b2517279140eb570d7538d5e00',
+  public_id: 'hq0ewbgknphgoj9vsbhn',
+  version: 1783181509,
+  version_id: 'db26c02dbf0aafbd60b1d00054a2ebbb',
+  signature: 'a96ad25a7d657ea1314738a971f1e8a1872c5893',
+  width: 1074,
+  height: 806,
+  format: 'avif',
+  resource_type: 'image',
+  created_at: '2026-07-04T16:11:49Z',
+  tags: [],
+  pages: 1,
+  bytes: 202885,
+  type: 'upload',
+  etag: '060644ed6e2e867ec1f7a61c7e4dc5c6',
+  placeholder: false,
+  url: 'http://res.cloudinary.com/jdroq0mz/image/upload/v1783181509/hq0ewbgknphgoj9vsbhn.avif',
+  secure_url: 'https://res.cloudinary.com/jdroq0mz/image/upload/v1783181509/hq0ewbgknphgoj9vsbhn.avif',
+  asset_folder: '',
+  display_name: 'hq0ewbgknphgoj9vsbhn',
+  original_filename: 'photo-1571727153934-b9e0059b7ab2',
+  api_key: '484271274392851'
+}
