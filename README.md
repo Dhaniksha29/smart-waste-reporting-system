@@ -1,4 +1,4 @@
-# 🚧 Civix – Local Civic Issue Reporting App  
+# Smart Waste Reporting System
 
 **Domain**: Governance / Public Welfare  
 **Tagline**: Empowering citizens, enabling better governance.  
