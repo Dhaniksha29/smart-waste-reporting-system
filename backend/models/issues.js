@@ -5,7 +5,7 @@ const issueSchema = new mongoose.Schema({
   description: String,
   phone:String,
   email: String,
-  fileUrl: String,
+  fileUrl: String,  wasteCategory: {    type: String,    default: 'Uncategorized'  },
   createdAt: {
     type: Date,
     default: Date.now,

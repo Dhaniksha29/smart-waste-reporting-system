@@ -122,12 +122,7 @@ const Navbar = () => {
               className="flex items-center gap-3 group"
             >
               <div className="relative">
-                <img 
-                  src={logo} 
-                  alt="Civix logo" 
-                  className="h-9 w-auto transition-transform duration-300 group-hover:scale-105" 
-                />
-                <div className="absolute inset-0 bg-green-500/20 rounded-full blur-xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                <span className="text-2xl font-bold text-green-600">Smart Waste</span><div className="absolute inset-0 bg-green-500/20 rounded-full blur-xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
               </div>
             </button>
           </div>

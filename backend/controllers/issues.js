@@ -1,7 +1,7 @@
 const Issue = require('../models/issues');
 const sendEmail = require('../utils/sendEmail');
 const { asyncHandler } = require('../utils/asyncHandler'); 
-const { uploadOnCloudinary } = require("../utils/cloudinary.js");
+const { uploadOnCloudinary } = require("../utils/cloudinary.js");const { classifyWaste } = require("../utils/geminiClassifier.js");
 
 const createIssue = asyncHandler(async (req, res) => {
   const { title, description, phone, email, notifyByEmail } = req.body;
@@ -24,13 +24,17 @@ const createIssue = asyncHandler(async (req, res) => {
     }
   }
 
-  const issue = await Issue.create({
+  let wasteCategory='Uncategorized';
+if (fileUrl){
+      wasteCategory=await classifyWaste(fileUrl)}
+    const issue = await Issue.create({
     title,
     description,
     phone,
     email,
     notifyByEmail: notifyByEmail === 'true',
-    fileUrl
+    fileUrl,
+    wasteCategory
   });
 
   return res.status(201).json({ message: 'Issue submitted successfully', issue });
