@@ -11,7 +11,7 @@
   
 **CivicIQ** is a full-stack web application designed to streamline the process of reporting, tracking, and resolving local civic issues such as potholes, broken streetlights, and uncollected garbage. It provides a bridge between citizens and municipal authorities, bringing accountability and transparency to local issue resolution. 
 
-![Image] (<img width="1714" height="833" alt="Image" src="https://github.com/user-attachments/assets/b0e8c00f-9b9b-428f-b03a-38346c90d12c" />)
+(<img width="1714" height="833" alt="Image" src="https://github.com/user-attachments/assets/b0e8c00f-9b9b-428f-b03a-38346c90d12c" />)
 *Caption: Citizen view showing issue reporting interface*
 
 ## 🚨 Problem Addressed  
