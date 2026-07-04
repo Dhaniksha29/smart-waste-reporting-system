@@ -1,6 +1,6 @@
 ---
 name: "✨ Enhancement"
-about: Suggest a new feature or improvement for Civix
+about: Suggest a new feature or improvement for CivicIQ
 title: "[Feature]: "
 labels: enhancement
 assignees: ''
@@ -10,7 +10,7 @@ assignees: ''
 Please describe the problem you're facing.
 
 ### 💡 Describe the Solution
-What feature or improvement would you like to see in Civix?
+What feature or improvement would you like to see in CivicIQ?
 
 ### 🔁 Alternatives Considered
 Any alternative solutions you’ve thought of?
