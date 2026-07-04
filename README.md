@@ -37,7 +37,7 @@ Local civic issues often go unnoticed or unresolved due to:
 
 ### 📘 Civic Education & Rights  
 
-Civix now includes a fully frontend civic learning module to educate users—especially students and first-time voters—about their rights and responsibilities.
+CiviIQ now includes a fully frontend civic learning module to educate users—especially students and first-time voters—about their rights and responsibilities.
 
 **Route**: `/civic-education`  
 **File**: `src/Pages/CivicEducation.jsx`
@@ -54,7 +54,7 @@ Civix now includes a fully frontend civic learning module to educate users—esp
 
 ### 🧭 Civic Simulator
 
-Civix now includes a standalone interactive simulator that allows users to step into civic leadership roles. Through animated dilemmas and slider-based decisions, users make trade-offs and explore the consequences of their choices—all within a frontend-only experience.
+CiviIQ now includes a standalone interactive simulator that allows users to step into civic leadership roles. Through animated dilemmas and slider-based decisions, users make trade-offs and explore the consequences of their choices—all within a frontend-only experience.
 
 **Route**: `/civic-simulator`  
 **File**: `src/Pages/CivicSimulator.jsx`
