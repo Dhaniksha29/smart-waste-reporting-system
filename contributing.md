@@ -1,6 +1,6 @@
-# 🤝 Contributing to Civix
+# 🤝 Contributing to CivicIQ
 
-Thank you for your interest in contributing to **Civix**!  
+Thank you for your interest in contributing to **CivicIQ**!  
 Our mission is to **foster civic engagement and strengthen community collaboration**, and we’re excited to have contributors from all backgrounds help make that vision a reality.
 
 ## 💡 Ways You Can Contribute
@@ -11,10 +11,10 @@ There are many ways to get involved — no contribution is too small!
   Help us improve by reporting bugs, errors, or unexpected behavior.
 
 - 💭 **Suggest Features or Improvements**  
-  Have an idea that could make Civix better? Share your suggestions for new features, enhancements, or workflow improvements.
+  Have an idea that could make CivicIQ better? Share your suggestions for new features, enhancements, or workflow improvements.
 
 - 💻 **Submit Code Contributions**  
-  Fix bugs, implement new features, or improve existing functionality. We welcome pull requests that help Civix grow and evolve.
+  Fix bugs, implement new features, or improve existing functionality. We welcome pull requests that help CivicIQ grow and evolve.
 
 - 📘 **Improve Documentation**  
   Clear and accessible documentation helps everyone. You can fix typos, add examples, or expand explanations.
@@ -30,10 +30,10 @@ There are many ways to get involved — no contribution is too small!
 2. **Clone the repository:**
 
   ```bash
-git clone https://github.com/HarshS16/Civix.git
-cd Civix
+git clone https://github.com/Dhaniksha29/CivicIQ.git
+cd CivicIQ
 ```
-git clone https://github.com/Harshs16/civix.git
+git clone https://github.com/Dhaniksha29/CivicIQ.git
 
 3. **Set up the project**.
 
@@ -57,15 +57,15 @@ Before you start, make sure you have the following installed on your system:
        npm install
    ```
 3. **Database Setup:** 
-Create a new database for Civix:
+Create a new database for CivicIQ:
 
 ```bash
-createdb civix
+createdb civiciq
 ```
 
 Edit your configuration (typically a .env) to connect to your Postgres database:
 ```bash
-DB_NAME=civix
+DB_NAME=civiciq
 DB_HOST=localhost
 DB_PORT=5432
 DB_USER=your_username
@@ -121,7 +121,7 @@ Maintainers will review your PR and may request changes before approval. Once ap
 
 If you’ve found a bug or unexpected behavior, please help us by reporting it:
 
-1. Open a new [issue](https://github.com/HarshS16/Civix/issues/new/choose).  
+1. Open a new [issue](https://github.com/Dhaniksha29/CivicIQ/issues/new/choose).  
 2. Select the **Bug Report** template.  
 3. Include the following details:
    - 🔁 **Steps to reproduce**  
@@ -134,16 +134,16 @@ Providing detailed and clear reports helps us resolve issues faster and more acc
 
 ## ✨ How to Request a Feature
 
-We welcome new ideas that can make **Civix** better for everyone. To request a feature:
+We welcome new ideas that can make **CivicIQ** better for everyone. To request a feature:
 
-1. Open a new [issue](https://github.com/HarshS16/Civix/issues/new/choose).  
+1. Open a new [issue](https://github.com/Dhaniksha29/CivicIQ/issues/new/choose).  
 2. Select the **Feature Request** template.  
 3. Clearly describe the following:
    - 🧩 **The problem you're solving**  
    - 💡 **Why it's important**  
    - 🚀 **Your proposed solution**
 
-Providing as much context as possible helps us understand your idea and evaluate how it fits into Civix’s goals.
+Providing as much context as possible helps us understand your idea and evaluate how it fits into CivicIQ’s goals.
 
 ---
 
@@ -183,5 +183,5 @@ Please be **respectful, inclusive, and collaborative** in all contributions.
 
 ## 🚀 Let’s Build Something Great Together!
 
-Thank you for helping make Civix a thriving, community-driven project.
+Thank you for helping make CivicIQ a thriving, community-driven project.
 Your contributions — big or small — make a real difference.

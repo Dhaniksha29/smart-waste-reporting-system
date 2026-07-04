@@ -1,4 +1,4 @@
-# 🔧 Civix Backend API
+# 🔧 CivicIQ Backend API
 
 ## 🚀 Quick Start
 
@@ -159,7 +159,7 @@ NODE_ENV=development
 # Database
 DB_HOST=localhost
 DB_PORT=5432
-DB_NAME=civix_db
+DB_NAME=civiciq_db
 DB_USER=your_username
 DB_PASSWORD=your_password
 
@@ -168,7 +168,7 @@ JWT_SECRET=your_super_secret_key
 JWT_EXPIRES_IN=24h
 
 # Admin Domain
-DOMAIN_NAME=@admin.civix.com
+DOMAIN_NAME=@admin.civiciq.com
 
 # Email (if implemented)
 EMAIL_HOST=smtp.gmail.com
