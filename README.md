@@ -3,15 +3,15 @@
 **Domain**: Governance / Public Welfare  
 **Tagline**: Empowering citizens, enabling better governance.  
 
-![Issues](https://img.shields.io/github/issues/Harshs16/civix)
-![Forks](https://img.shields.io/github/forks/Harshs16/civix)
-![Stars](https://img.shields.io/github/stars/Harshs16/civix)
+![Issues](https://img.shields.io/github/issues/Dhaniksha29/CivicIQ)
+![Forks](https://img.shields.io/github/forks/Dhaniksha29/CivicIQ)
+![Stars](https://img.shields.io/github/stars/Dhaniksha29/CivicIQ)
 
 ## 🧠 Overview
   
 **CivicIQ** is a full-stack web application designed to streamline the process of reporting, tracking, and resolving local civic issues such as potholes, broken streetlights, and uncollected garbage. It provides a bridge between citizens and municipal authorities, bringing accountability and transparency to local issue resolution. 
 
-(<img width="1714" height="833" alt="Image" src="https://github.com/user-attachments/assets/b0e8c00f-9b9b-428f-b03a-38346c90d12c" />)
+![Image](https://github.com/user-attachments/assets/a5c04052-c62e-4885-ad14-9084a63272f2)
 *Caption: Citizen view showing issue reporting interface*
 
 ## 🚨 Problem Addressed  
@@ -70,7 +70,7 @@ CiviIQ now includes a standalone interactive simulator that allows users to step
 ##📂 Project Structure
 
 ```
-Civix/
+CivicIQ/
 ├── .github/              # GitHub Actions workflows and issue/PR templates
 ├── backend/              # The entire Node.js/Express.js backend API
 │   ├── config/           # Database (MongoDB), Swagger, and other configs
@@ -275,8 +275,8 @@ npm run cypress:open
 ### 📥 Installation  
 📦 1.**Clone the repository**:  
    ```bash
-   git clone https://github.com/Harshs16/civix.git
-   cd Civix
+   git clone https://github.com/Dhaniksha29/CivicIQ.git
+   cd CivicIQ
 ```
   
 📦 2. **Install Dependencies**
@@ -361,8 +361,8 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 🌟 Our Awesome Contributors
 
-<a href="https://github.com/Harshs16/civix/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Harshs16/civix" />
+<a href="https://github.com/Dhaniksha29/CivicIQ/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Dhaniksha29/CivicIQ" />
 </a>
 
 --- 
