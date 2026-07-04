@@ -1,4 +1,4 @@
-# 🚧 Civix – Local Civic Issue Reporting App  
+# CivicIQ
 
 **Domain**: Governance / Public Welfare  
 **Tagline**: Empowering citizens, enabling better governance.  
@@ -9,7 +9,7 @@
 
 ## 🧠 Overview
   
-**Civix** is a full-stack web application designed to streamline the process of reporting, tracking, and resolving local civic issues such as potholes, broken streetlights, and uncollected garbage. It provides a bridge between citizens and municipal authorities, bringing accountability and transparency to local issue resolution. 
+**CivicIQ** is a full-stack web application designed to streamline the process of reporting, tracking, and resolving local civic issues such as potholes, broken streetlights, and uncollected garbage. It provides a bridge between citizens and municipal authorities, bringing accountability and transparency to local issue resolution. 
 
 ![Image](https://github.com/user-attachments/assets/a5c04052-c62e-4885-ad14-9084a63272f2)
 *Caption: Citizen view showing issue reporting interface*
