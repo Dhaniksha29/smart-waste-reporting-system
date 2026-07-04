@@ -4,7 +4,7 @@ const axios = require("axios");
 const { asyncHandler } = require("../utils/asyncHandler");
 
 const CONTRIBUTORS_FILE = path.join(__dirname, "../cache/contributors.json");
-const GITHUB_API_URL = "https://api.github.com/repos/HarshS16/Civix/contributors";
+const GITHUB_API_URL = "https://api.github.com/repos/HarshS16/CivicIQ/contributors";
 
 const getContributors = asyncHandler(async (req, res) => {
     let useCached = false;
@@ -25,7 +25,7 @@ const getContributors = asyncHandler(async (req, res) => {
     } else {
         const response = await axios.get(GITHUB_API_URL, {
             headers: {
-                "User-Agent": "Civix-App",
+                "User-Agent": "CivicIQ-App",
                 "Accept": "application/vnd.github+json",
                 // Authorization: `token ${process.env.GITHUB_TOKEN}` // Uncomment if needed
             },
